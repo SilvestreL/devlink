@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <img alt="Imagem Do" src="./preview.png" width="100%">
-  ![Preview](assets/preview.png)
+  <img alt="Imagem Do" src="./preview.jpg" width="100%">
+  ![Preview](assets/preview.jpg)
 </p>
 
 </p>
