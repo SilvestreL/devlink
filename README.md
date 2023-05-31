@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="Imagem Do" src="devlink/assets/preview.png" width="100%">
+  <img alt="Imagem Do" src="./preview.png" width="100%">
   ![Preview](assets/preview.png)
 </p>
 
