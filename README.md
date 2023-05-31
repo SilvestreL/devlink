@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <img alt="Imagem Do" src="devlink/assets/preview.jpg" width="100%">
-  ![Preview](assets/preview.jpg)
+  <img alt="Imagem Do" src="devlink/assets/preview.png" width="100%">
+  ![Preview](assets/preview.png)
 </p>
 
 </p>
@@ -18,6 +18,9 @@
 </p>
 
 <br>
+
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -41,3 +44,4 @@ Layout do Projeto [(link)](https://www.figma.com/community/file/1187422022288947
 Esse projeto está sob a licença MIT.
 
 ---
+
