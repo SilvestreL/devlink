@@ -9,13 +9,10 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#licença">Licença</a>
 </p>
 
 <br>
-
-
 
 ## 🚀 Tecnologias
 
@@ -29,11 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Agregador de Links para cartão de visitas profissional.
-
-
-## 🔖 Layout
-
-Layout do Projeto [(link)](https://www.figma.com/community/file/1187422022288947321). <Br> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## Licença 
 
