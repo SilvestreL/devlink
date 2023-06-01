@@ -2,8 +2,8 @@
 <p align="center"> <br/>
 <a href="https://github.com/SilvestreL">Professional business card in the field of technology.</a> <br>
 
-<p align="center">
- ![Preview]([assets/preview.jpg](https://user-images.githubusercontent.com/114963243/242606540-7a36c57d-17a3-41cc-8093-ca6519a91c8a.jpeg))
+![Mind blowing](https://user-images.githubusercontent.com/114963243/242606540-7a36c57d-17a3-41cc-8093-ca6519a91c8a.jpeg)
+
 </p>
 
 <p align="center">
