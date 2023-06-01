@@ -11,16 +11,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>DevLinks</title>
+    <title>DevLink</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div id="container">
       <div id="profile">
-        <img
-          src="./assets/avatar.png"
-          alt="Foto de Lucas Silvestre"
-        />
+        <img src="./assets/avatar.png" alt="Foto de Lucas Silvestre" />
         <p>@Lucassilvestree</p>
       </div>
 
@@ -30,7 +27,6 @@
       </div>
 
       <ul>
-      
         <li>
           <a href="#">Informações Pessoais</a>
         </li>
@@ -38,7 +34,6 @@
         <li>
           <a href="https://github.com/SilvestreL">Meu portfólio</a>
         </li>
-
       </ul>
       <div id="social-links">
         <a href="https://github.com/SilvestreL" target="_blank">
@@ -47,17 +42,36 @@
 
         <a href="https://instagram.com/Lucassilvestree" target="_blank">
           <ion-icon name="logo-instagram"></ion-icon>
-     
+        </a>
+
         <a href="https://linkedin.com/in/lucassilvestree" target="_blank">
           <ion-icon name="logo-linkedin"></ion-icon>
         </a>
       </div>
 
       <footer>
-        Todos os direitos Reservados 
+        Todos os direitos Reservados
       </footer>
     </div>
 
+    <script>
+      function toggleMode() {
+        const html = document.documentElement;
+        html.classList.toggle("light");
+
+        // pegar a tag img
+        const img = document.querySelector("#profile img");
+
+        // substituir a imagem
+        if (html.classList.contains("light")) {
+          // se tiver light mode, adicionar a imagem light
+          img.setAttribute("src", "./assets/avatar-light.png");
+        } else {
+          // set tiver sem light mode, manter a imagem normal
+          img.setAttribute("src", "./assets/avatar.png");
+        }
+      }
+    </script>
     <script
       type="module"
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
